@@ -4,7 +4,6 @@
 
 ## Demostración
 
-## Personalización
 <table>
   <tr>
     <td><img src="https://github.com/santiagolassog/Juego-de-Laberintos-Automatico-con-Pygame/assets/27078128/584dcd91-5326-451b-8611-dc078e986dac" alt="Laberinto 1"></td>
@@ -18,12 +17,6 @@
     <td><img src="https://github.com/santiagolassog/Juego-de-Laberintos-Automatico-con-Pygame/assets/27078128/0b69a650-6ba2-4944-9b6e-74f1e0a804c5" alt="Laberinto 4"></td>
   </tr>
 </table>
-
-![gif1_auto1](https://github.com/santiagolassog/Juego-de-Laberintos-Automatico-con-Pygame/assets/27078128/584dcd91-5326-451b-8611-dc078e986dac)
-![gif_auto2](https://github.com/santiagolassog/Juego-de-Laberintos-Automatico-con-Pygame/assets/27078128/5e816e6a-2230-4914-b45c-67185c68e0c0)
-![gif_auto4](https://github.com/santiagolassog/Juego-de-Laberintos-Automatico-con-Pygame/assets/27078128/f305a264-00fd-492d-886f-f6046c273eff)
-![gif_auto3](https://github.com/santiagolassog/Juego-de-Laberintos-Automatico-con-Pygame/assets/27078128/0b69a650-6ba2-4944-9b6e-74f1e0a804c5)
-
 
 ## Instalación
 
