@@ -145,6 +145,7 @@ def find_path_bfs():
         # Explorar las celdas adyacentes
         for dx, dy in directions:
             new_x, new_y = x + dx, y + dy
+          
             # Verificar si la celda adyacente es válida para moverse
             if 0 <= new_x < columnas and 0 <= new_y < filas and not visited[new_y, new_x] and mapa[new_y, new_x] == 0:
                 # Registrar la posición padre de la celda adyacente y agregarla a la cola para su exploración
@@ -180,7 +181,6 @@ def map_draw():
     # Mostrar la imagen final cuando el juego ha terminado
     if fin:
         screen.blit(fin_bg, (0, 0))
-
 
 # Bucle principal
 running = True
