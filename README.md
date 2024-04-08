@@ -12,13 +12,15 @@ Este es un juego de laberintos automatizado desarrollado en Python utilizando la
     pip install pygame
     ```
 
-## Uso
+## Interaccón y Uso
 
-El juego se iniciará y podrás ver al robot moviéndose automáticamente hacia la salida del laberinto.
+Una vez iniciado el juego, verás al robot moviéndose automáticamente hacia la salida del laberinto utilizando el algoritmo BFS.
+No es necesario realizar ninguna interacción manual durante la ejecución del juego. Puedes observar cómo el robot encuentra la salida siguiendo el camino más corto.
 
 ## Personalización del Laberinto
 
-Puedes personalizar el laberinto cambiando la matriz `mapa` en el archivo `laberinto.py`. La matriz representa el laberinto donde `0` representa un espacio libre (suelo) y `1` representa una pared. También puedes cambiar la posición inicial del robot y la posición de la salida.
+Si deseas personalizar el laberinto, puedes hacerlo modificando la matriz `mapa` en el archivo `laberinto.py`. Esta matriz representa el laberinto, donde `0` representa un espacio libre (suelo) y `1` representa una pared.
+También puedes cambiar la posición inicial del robot y la posición de la salida modificando las variables `pos_x`, `pos_y`, `salida_x` y `salida_y` en el archivo `laberinto.py`.
 
 ## Contribuciones
 
