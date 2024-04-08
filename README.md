@@ -3,8 +3,10 @@
 ¡Embárcate en una emocionante aventura en el mundo de los videojuegos con Python y Pygame! Sumérgete en un desafío de destreza y lógica mientras guías a un robot a través de un laberinto en una ventana de **500x500 píxeles**. Personaliza tu experiencia con tus propias imágenes de paredes y suelos, y observa cómo el robot encuentra el camino más corto hacia la salida. ¿Tienes lo necesario para conquistar este laberinto automatizado?
 
 ## Demostración
-![Demostración del juego](https://ruta/hacia/imagen.gif)
-![GIF Prueba Cam3](https://github.com/santiagolassog/Superposicion-Imagen-Laberinto-en-Tiempo-Real-con-Camara-Web-OpenCV/assets/27078128/5cb522e8-375e-4528-acf5-246623e45fd8)
+![gif1_auto1](https://github.com/santiagolassog/Juego-de-Laberintos-Automatico-con-Pygame/assets/27078128/584dcd91-5326-451b-8611-dc078e986dac)
+![gif_auto2](https://github.com/santiagolassog/Juego-de-Laberintos-Automatico-con-Pygame/assets/27078128/5e816e6a-2230-4914-b45c-67185c68e0c0)
+![gif_auto4](https://github.com/santiagolassog/Juego-de-Laberintos-Automatico-con-Pygame/assets/27078128/f305a264-00fd-492d-886f-f6046c273eff)
+![gif_auto3](https://github.com/santiagolassog/Juego-de-Laberintos-Automatico-con-Pygame/assets/27078128/0b69a650-6ba2-4944-9b6e-74f1e0a804c5)
 
 
 ## Instalación
