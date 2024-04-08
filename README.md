@@ -4,6 +4,8 @@
 
 ## Demostración
 ![Demostración del juego](https://ruta/hacia/imagen.gif)
+![GIF Prueba Cam3](https://github.com/santiagolassog/Superposicion-Imagen-Laberinto-en-Tiempo-Real-con-Camara-Web-OpenCV/assets/27078128/5cb522e8-375e-4528-acf5-246623e45fd8)
+
 
 ## Instalación
 
