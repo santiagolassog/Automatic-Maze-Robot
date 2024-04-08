@@ -12,7 +12,7 @@ Este es un juego de laberintos automatizado desarrollado en Python utilizando la
     pip install pygame
     ```
 
-## Interaccón y Uso
+## Interacción y Uso
 
 Una vez iniciado el juego, verás al robot moviéndose automáticamente hacia la salida del laberinto utilizando el algoritmo BFS.
 No es necesario realizar ninguna interacción manual durante la ejecución del juego. Puedes observar cómo el robot encuentra la salida siguiendo el camino más corto.
