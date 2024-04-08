@@ -1,4 +1,4 @@
-# Juego Robot Laberinto Automático
+# Juego de Laberintos Automático
 
 Este es un juego de laberintos automatizado desarrollado en Python utilizando la biblioteca Pygame. El juego utiliza el algoritmo de búsqueda BFS (Breadth-First Search) para encontrar la ruta más corta desde la posición inicial del robot hasta la salida del laberinto.
 
