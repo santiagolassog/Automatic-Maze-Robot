@@ -1,10 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
+"""------------------------------------------------
 Created on Mon Apr  8 09:01:42 2024
-
-@author: LASSODS
-"""
-
+@author: Santiago Lasso
+------------------------------------------------"""
 import numpy as np
 import pygame
 from pygame.locals import *
