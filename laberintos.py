@@ -10,9 +10,11 @@ import pygame
 from pygame.locals import *
 from collections import deque
 
-# Constantes
+# Configuración tamaño de ventana
 WIDTH, HEIGHT = 500, 500
 MOVE_ROBOT_EVENT = pygame.USEREVENT + 1
+
+# Velocidad de movimiento del robot
 vel = 250
 
 # Inicializar Pygame
