@@ -15,7 +15,7 @@
 ## Instalación
 
 1. Asegúrate de tener instalado Python en tu sistema. Puedes descargarlo desde [python.org](https://www.python.org/downloads/).
-2. Clona este repositorio en tu máquina local utilizando el siguiente comando:
+2. Clona este repositorio en tu máquina local.
 3. Instala las dependencias necesarias ejecutando el siguiente comando:
 
     ```
